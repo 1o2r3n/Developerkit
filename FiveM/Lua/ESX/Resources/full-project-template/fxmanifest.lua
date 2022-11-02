@@ -23,5 +23,4 @@ server_scripts {
   '@mysql-async/lib/MySQL.lua',
   'config/config.lua',
   'lua/server/main.lua',
-  'lua/server/checking.lua',
 }
